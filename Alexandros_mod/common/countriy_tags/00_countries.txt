@@ -57,3 +57,6 @@ NBY = "countries/SouthAm.txt" #Neue Bayern
 
 ### African ###
 AKS = "countries/African.txt" #Aksum
+
+######
+ZZZ = "countries/WestEur.txt" #test
