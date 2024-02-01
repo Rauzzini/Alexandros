@@ -1,0 +1,62 @@
+### Majors ###
+MAC = "countries/EastEur.txt" #Macedonia
+SOV = "countries/EastEur.txt" #Russia Soviet Republic
+FRA = "countries/WestEur.txt" #French Empire
+AST = "countries/WestEur.txt" #Austrian Empire
+RME = "countries/WestEur.txt" #Roman Empire
+GER = "countries/WestEur.txt" #German Empire
+JAP = "countries/Asian.txt"   #State of Japan
+
+### Western Europe ###
+ALB = "countries/WestEur.txt" #Alba, NOT ALBANIA THAT DOESN'T EXIST IN THIS WORLD
+CYM = "countries/WestEur.txt" #Cymru
+DEN = "countries/WestEur.txt" #Denmark
+EIR = "countries/WestEur.txt" #Eire
+EUS = "countries/WestEur.txt" #Euskal Herria
+FIN = "countries/WestEur.txt" #Finland
+NJL = "countries/WestEur.txt" #Ny Jylland
+NUT = "countries/WestEur.txt" #Neues Utrecht
+SWE = "countries/WestEur.txt" #Sweden, PALADOX STATE
+WAF = "countries/WestEur.txt" #French West Africa
+
+### Eastern Europe ###
+BAT = "countries/EastEur.txt" #Baltic Union
+HYS = "countries/EastEur.txt" #Hayastan
+ILL = "countries/EastEur.txt" #Illyria
+NNT = "countries/EastEur.txt" #Neanotia
+POL = "countries/EastEur.txt" #Poland
+ROM = "countries/EastEur.txt" #Romania
+SKR = "countries/EastEur.txt" #Sakartvelo
+UKR = "countries/EastEur.txt" #Ukraine
+
+### Asian ###
+BRM = "countries/Asian.txt" #Burma
+CHI = "countries/Asian.txt" #Yan Empire
+INS = "countries/Asian.txt" #Indonesia
+KOR = "countries/Asian.txt" #Korean Empire
+MHR = "countries/Asian.txt" #Maharlika
+MLY = "countries/Asian.txt" #Malaya
+MON = "countries/Asian.txt" #Mongolian ASR
+PPA = "countries/Asian.txt" #Papua
+SIA = "countries/Asian.txt" #Siam
+TIB = "countries/Asian.txt" #Tibet
+TRK = "countries/Asian.txt" #Turkestan ASR
+VIN = "countries/Asian.txt" #Vietnam
+
+### Indian ###
+BHR = "countries/Indian.txt" #Bharat
+DRV = "countries/Indian.txt" #Dravidian State
+NEP = "countries/Indian.txt" #Nepal
+
+### MidEast ###
+ARB = "countries/MidEast.txt" #Arabia
+PER = "countries/MidEast.txt" #Persia
+
+### South/Central America ###
+NBY = "countries/SouthAm.txt" #Neue Bayern
+
+### African ###
+AKS = "countries/African.txt" #Aksum
+
+######
+ZZZ = "countries/WestEur.txt" #test
