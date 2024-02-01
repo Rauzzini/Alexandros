@@ -5,8 +5,8 @@ state={
 	state_category = pastoral 
 
 	history={
-		owner = ENG
-		add_core_of = NGA
+		owner = WAF
+		add_core_of = WAF
 		buildings = {
 			infrastructure = 2
 		}

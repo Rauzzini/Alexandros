@@ -19,12 +19,12 @@ RME = {
 	color_ui = rgb { 72 200 150 }
 }
 GER = {
-	color = HSV { 0.1 0.15 0.4 }
+	color = rgb { 102 95 86 }
 	color_ui = rgb { 138 155 116 }
 }
 JAP = {
-	color = hsv { 0.05 0.3 1 }
-	color_ui = hsv { 0.05 0.25 1.2 }
+	color = rgb { 255 201 178 }
+	color_ui = rgb { 255 210 191 }
 }
 ALB = {
 	color = rgb { 232 232 0 }
@@ -51,20 +51,20 @@ FIN = {
 	color_ui = rgb { 255 255 255 }
 }
 NJL = {
-	color = rgb { 153 116 93 }
-	color_ui = rgb { 199 151 121 }
+	color = rgb { 194 153 128 }
+	color_ui = rgb { 194 153 128 }
 }
 NUT = {
-	color = HSV { 0.1 0.15 0.4 }
-	color_ui = rgb { 138 155 116 }
+	color = rgb { 65 57 48 }
+	color_ui = rgb { 65 57 48 }
 }
 SWE = {
 	color = rgb { 36 132 247 }
 	color_ui = rgb { 47 172 255 }
 }
 WAF = {
-	color = rgb { 57 113 228 }
-	color_ui = rgb { 74 147 255 }
+	color = rgb { 88 138 238 }
+	color_ui = rgb { 88 138 238 }
 }
 BAT = {
 	color = rgb { 84 84 84 }
@@ -79,8 +79,8 @@ ILL = {
 	color_ui = rgb { 80 70 90 }
 }
 NNT = {
-	color = rgb { 124 6 112 }
-	color_ui = rgb { 124 6 112 }
+	color = rgb { 61 0 55 }
+	color_ui = rgb { 61 0 55 }
 }
 POL = {
 	color = rgb { 214 102 139 }
@@ -159,18 +159,18 @@ NEP = {
 	color_ui = rgb { 198 169 248 }
 }
 ARB = {
-	color = rgb { 171 190 152 }
-	color_ui = rgb { 222 247 198 }
+	color = rgb { 103 50 97 }
+	color_ui = rgb { 103 50 97 }
 }
 PER = {
-	color = rgb { 71 113 97 }
-	color_ui = rgb { 92 147 126 }
+	color = rgb { 179 5 162 }
+	color_ui = rgb { 179 5 162 }
 }
 NBY = {
 	color = HSV { 0.1 0.15 0.4 }
 	color_ui = rgb { 138 155 116 }
 }
 AKS = {
-	color = rgb { 152 130 191 }
-	color_ui = rgb { 198 169 248 }
+	color = rgb { 172 146 17 }
+	color_ui = rgb { 172 146 17 }
 }

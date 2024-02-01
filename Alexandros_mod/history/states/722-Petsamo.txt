@@ -19,12 +19,6 @@ state={
 			}
 		}
 		add_core_of = FIN
-		if = {
-			limit = {
-				has_dlc = "Arms Against Tyranny"
-			}
-			add_core_of = SMI
-		}
 	}
 	
 	provinces={
