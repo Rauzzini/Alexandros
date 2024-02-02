@@ -13,11 +13,11 @@ state={
 	}
 
 	history={
-		owner = USA
+		owner = MCR
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = USA
+		add_core_of = MCR
 		victory_points = {
 			9616 1
 		}

@@ -7,3 +7,5 @@ tags={
 }
 name="Alexandros: Sunrise from Pella"
 supported_version="1.12.14"
+replace_path="common/on_actions"
+replace_path="common/scripted_effects"

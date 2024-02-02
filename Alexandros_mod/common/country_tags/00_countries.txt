@@ -14,8 +14,10 @@ DEN = "countries/WestEur.txt" #Denmark
 EIR = "countries/WestEur.txt" #Eire
 EUS = "countries/WestEur.txt" #Euskal Herria
 FIN = "countries/WestEur.txt" #Finland
+NFR = "countries/WestEur.txt" #Nafarroa Berria
 NJL = "countries/WestEur.txt" #Ny Jylland
 NUT = "countries/WestEur.txt" #Neues Utrecht
+QUE = "countries/WestEur.txt" #Quebec
 SWE = "countries/WestEur.txt" #Sweden, PALADOX STATE
 WAF = "countries/WestEur.txt" #French West Africa
 
@@ -23,7 +25,9 @@ WAF = "countries/WestEur.txt" #French West Africa
 BAT = "countries/EastEur.txt" #Baltic Union
 HYS = "countries/EastEur.txt" #Hayastan
 ILL = "countries/EastEur.txt" #Illyria
+MCR = "countries/EastEur.txt" #Macedonian Columbia
 NNT = "countries/EastEur.txt" #Neanotia
+NSB = "countries/EastEur.txt" #Novaya Sibir'
 POL = "countries/EastEur.txt" #Poland
 ROM = "countries/EastEur.txt" #Romania
 SKR = "countries/EastEur.txt" #Sakartvelo
@@ -33,6 +37,7 @@ UKR = "countries/EastEur.txt" #Ukraine
 BRM = "countries/Asian.txt" #Burma
 CHI = "countries/Asian.txt" #Yan Empire
 INS = "countries/Asian.txt" #Indonesia
+IRQ = "countries/Asian.txt" #Iroquois
 KOR = "countries/Asian.txt" #Korean Empire
 MHR = "countries/Asian.txt" #Maharlika
 MLY = "countries/Asian.txt" #Malaya
@@ -53,7 +58,9 @@ ARB = "countries/MidEast.txt" #Arabia
 PER = "countries/MidEast.txt" #Persia
 
 ### South/Central America ###
+COL = "countries/SouthAm.txt" #French Columbia
 NBY = "countries/SouthAm.txt" #Neue Bayern
+NSC = "countries/SouthAm.txt" #Ny Scandinavia
 
 ### African ###
 AKS = "countries/African.txt" #Aksum

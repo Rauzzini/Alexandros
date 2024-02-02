@@ -50,6 +50,10 @@ FIN = {
 	color = rgb { 205 212 228 }
 	color_ui = rgb { 255 255 255 }
 }
+NFR = {
+	color = rgb { 104 152 83 }
+	color_ui = rgb { 135 198 108 }
+}
 NJL = {
 	color = rgb { 194 153 128 }
 	color_ui = rgb { 194 153 128 }
@@ -57,6 +61,10 @@ NJL = {
 NUT = {
 	color = rgb { 65 57 48 }
 	color_ui = rgb { 65 57 48 }
+}
+QUE = {
+	color = rgb { 9 51 134 }
+	color_ui = rgb { 9 51 134 }
 }
 SWE = {
 	color = rgb { 36 132 247 }
@@ -78,9 +86,17 @@ ILL = {
 	color = rgb { 80 70 90 }
 	color_ui = rgb { 80 70 90 }
 }
+MCR = {
+	color = rgb { 162 17 130 }
+	color_ui = rgb { 162 17 130 }
+}
 NNT = {
 	color = rgb { 61 0 55 }
 	color_ui = rgb { 61 0 55 }
+}
+NSB = {
+	color = rgb { 1 56 0 }
+	color_ui = rgb { 1 56 0 }
 }
 POL = {
 	color = rgb { 214 102 139 }
@@ -109,6 +125,10 @@ CHI = {
 INS = {
 	color = rgb { 203 138 74 }
 	color_ui = rgb { 255 179 96 }
+}
+IRQ = {
+	color = rgb { 46 5 107 }
+	color_ui = rgb { 46 5 107 }
 }
 KOR = {
 	color = rgb { 255  240  195 }
@@ -146,7 +166,7 @@ VIN = {
 	color = rgb { 230 223 50 }
 	color_ui = rgb { 230 223 50 }
 }
-BHA = {
+BHR = {
 	color = rgb { 226 135 40 }
 	color_ui = rgb { 226 135 40 }
 }
@@ -166,9 +186,17 @@ PER = {
 	color = rgb { 179 5 162 }
 	color_ui = rgb { 179 5 162 }
 }
+COL = {
+	color = rgb { 222 187 91 }
+	color_ui = rgb { 255 243 118 }
+}
 NBY = {
-	color = HSV { 0.1 0.15 0.4 }
-	color_ui = rgb { 138 155 116 }
+	color = rgb { 90 89 88 }
+	color_ui = rgb { 90 89 88 }
+}
+NSC = {
+	color = rgb { 145 157 236 }
+	color_ui = rgb { 189 204 255 }
 }
 AKS = {
 	color = rgb { 172 146 17 }

@@ -3,7 +3,8 @@ state={
 	name="STATE_463"
 
 	history={
-		owner = USA
+		owner = NSB
+		add_core_of = NSB
 		buildings = {
 			infrastructure = 1
 			air_base = 1
