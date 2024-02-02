@@ -1,0 +1,23 @@
+state={
+	id=935
+	name="STATE_935"
+	history={
+		owner = FRA
+		victory_points = {
+			587 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+		}
+		add_core_of = FRA
+
+	}
+	provinces={
+		587 3444 3547 9522 
+	}
+	manpower=2165365
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}
