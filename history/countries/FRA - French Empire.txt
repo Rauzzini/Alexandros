@@ -5,6 +5,12 @@ set_technology = {
 
 set_convoys = 10
 
+set_autonomy = {
+	target = WAF
+	autonomous_state = autonomy_colony
+	freedom_level = 0.2
+}
+
 ###この辺にキャラクター
 
 set_politics = {

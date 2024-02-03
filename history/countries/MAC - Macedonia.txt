@@ -5,6 +5,27 @@ set_technology = {
 
 set_convoys = 10
 
+set_autonomy = {
+	target = PER
+	autonomous_state = autonomy_colony
+	freedom_level = 0.2
+}
+set_autonomy = {
+	target = ARB
+	autonomous_state = autonomy_colony
+	freedom_level = 0.2
+}
+set_autonomy = {
+	target = NNT
+	autonomous_state = autonomy_dominion
+	freedom_level = 0.4
+}
+set_autonomy = {
+	target = MCR
+	autonomous_state = autonomy_dominion
+	freedom_level = 0.4
+}
+
 ###この辺にキャラクター
 
 set_politics = {
