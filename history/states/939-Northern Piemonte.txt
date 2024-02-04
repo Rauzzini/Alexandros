@@ -1,23 +1,18 @@
-
 state={
-	id=847
-	name="STATE_847"
+	id=939
+	name="STATE_939"
 
 	history={
-		owner = AST
+		owner = RME
 		buildings = {
 			infrastructure = 1
-			industrial_complex = 1
-
 		}
-		add_core_of = AST
-
+		add_core_of = RME
 	}
-
 	provinces={
-		636 9618 
+		3612 9587 
 	}
-	manpower=119736
+	manpower=58693
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 	local_supplies=0.000
