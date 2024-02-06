@@ -6,7 +6,7 @@ state={
 	}
 
 	history={
-		owner = EUS
+		owner = CRT
 		victory_points = {
 			9979 5
 		}
@@ -30,7 +30,7 @@ state={
 			}
 
 		}
-		add_core_of = EUS
+		add_core_of = CRT
 
 	}
 

@@ -13,11 +13,11 @@ state={
 	}
 
 	history={
-		owner = MCR
+		owner = MCL
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = MCR
+		add_core_of = MCL
 		victory_points = {
 			9616 1
 		}

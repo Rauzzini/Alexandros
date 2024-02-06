@@ -25,7 +25,7 @@ WAF = "countries/WestEur.txt" #French West Africa
 BAT = "countries/EastEur.txt" #Baltic Union
 HYS = "countries/EastEur.txt" #Hayastan
 ILL = "countries/EastEur.txt" #Illyria
-MCR = "countries/EastEur.txt" #Macedonian Columbia
+MCL = "countries/EastEur.txt" #Macedonian Columbia
 NNT = "countries/EastEur.txt" #Neanotia
 NSB = "countries/EastEur.txt" #Novaya Sibir'
 POL = "countries/EastEur.txt" #Poland
@@ -55,6 +55,7 @@ NEP = "countries/Indian.txt" #Nepal
 
 ### MidEast ###
 ARB = "countries/MidEast.txt" #Arabia
+CRT = "countries/MidEast.txt" #Carthago
 PER = "countries/MidEast.txt" #Persia
 
 ### South/Central America ###

@@ -21,7 +21,7 @@ set_autonomy = {
 	freedom_level = 0.4
 }
 set_autonomy = {
-	target = MCR
+	target = MCL
 	autonomous_state = autonomy_dominion
 	freedom_level = 0.4
 }

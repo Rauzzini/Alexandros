@@ -15,8 +15,8 @@ AST = {
 	color_ui = rgb { 255 255 255 }
 }
 RME = {
-	color = rgb { 72 200 150 }
-	color_ui = rgb { 72 200 150 }
+	color = rgb { 102 15 15 }
+	color_ui = rgb { 102 15 15 }
 }
 GER = {
 	color = rgb { 102 95 86 }
@@ -86,7 +86,7 @@ ILL = {
 	color = rgb { 80 70 90 }
 	color_ui = rgb { 80 70 90 }
 }
-MCR = {
+MCL = {
 	color = rgb { 162 17 130 }
 	color_ui = rgb { 162 17 130 }
 }
@@ -181,6 +181,10 @@ NEP = {
 ARB = {
 	color = rgb { 103 50 97 }
 	color_ui = rgb { 103 50 97 }
+}
+CRT = {
+	color = rgb { 72 200 150 }
+	color_ui = rgb { 72 200 150 }
 }
 PER = {
 	color = rgb { 179 5 162 }
