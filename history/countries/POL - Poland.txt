@@ -5,6 +5,11 @@ set_technology = {
 
 set_convoys = 10
 
+create_faction = Intermarium
+add_to_faction = FIN
+add_to_faction = BAT
+add_to_faction = UKR
+
 ###この辺にキャラクター
 
 set_politics = {

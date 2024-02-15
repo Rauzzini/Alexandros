@@ -26,6 +26,8 @@ set_autonomy = {
 	freedom_level = 0.4
 }
 
+create_faction = Pella_Treaty_Organization
+
 ###この辺にキャラクター
 
 set_politics = {

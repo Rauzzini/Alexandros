@@ -5,6 +5,19 @@ set_technology = {
 
 set_convoys = 10
 
+set_autonomy = {
+	target = TRK
+	autonomous_state = autonomy_colony
+	freedom_level = 0.2
+}
+set_autonomy = {
+	target = MON
+	autonomous_state = autonomy_colony
+	freedom_level = 0.2
+}
+
+create_faction = International
+
 ###この辺にキャラクター
 
 set_politics = {

@@ -5,6 +5,10 @@ set_technology = {
 
 set_convoys = 10
 
+create_faction = Briton_Allies
+add_to_faction = ALB
+add_to_faction = EIR
+
 ###この辺にキャラクター
 
 set_politics = {
