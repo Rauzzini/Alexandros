@@ -27,6 +27,8 @@ set_autonomy = {
 }
 
 create_faction = Pella_Treaty_Organization
+add_to_faction = BHR
+add_to_faction = CRT
 
 ###この辺にキャラクター
 
