@@ -1,0 +1,24 @@
+state={
+	id=941
+	name="STATE_941"
+	history={
+		owner = ILL		
+		victory_points = {
+			6814 3 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex =1
+
+		}
+		add_core_of = ILL
+
+	}
+	provinces={
+		6814 6952 6982 
+	}
+	manpower=388556
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
