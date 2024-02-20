@@ -3,6 +3,10 @@ state={
 	name="STATE_95"
 
 	history={
+		
+		victory_points = {
+			3393 3
+		}
 		victory_points = {
 			9304 1
 		}
