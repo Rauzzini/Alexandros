@@ -10,6 +10,11 @@ set_autonomy = {
 	autonomous_state = autonomy_colony
 	freedom_level = 0.2
 }
+set_autonomy = {
+	target = QUE
+	autonomous_state = autonomy_dominion
+	freedom_level = 0.4
+}
 
 ###この辺にキャラクター
 
