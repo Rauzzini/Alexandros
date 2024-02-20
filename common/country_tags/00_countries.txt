@@ -65,6 +65,7 @@ NSC = "countries/SouthAm.txt" #Ny Scandinavia
 
 ### African ###
 AKS = "countries/African.txt" #Aksum
+EGY = "countries/African.txt" #Egypt
 
 ######
 ZZZ = "countries/WestEur.txt" #test

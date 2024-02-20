@@ -206,3 +206,7 @@ AKS = {
 	color = rgb { 172 146 17 }
 	color_ui = rgb { 172 146 17 }
 }
+EGY = {
+	color = rgb { 88 20 144 }
+	color_ui = rgb { 88 20 144 }
+}
