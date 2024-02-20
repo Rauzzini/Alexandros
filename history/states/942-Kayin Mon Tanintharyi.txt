@@ -1,0 +1,21 @@
+state={
+	id=942
+	name="STATE_942"
+	history={
+		add_core_of = SIA
+		owner = SIA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
+		}
+
+	}
+	provinces={
+		1296 1315 1385 1403 4275 4408 7295 10217 12125 12238 12292 
+	}
+	manpower=5224777
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

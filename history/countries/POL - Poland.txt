@@ -13,11 +13,11 @@ add_to_faction = UKR
 ###この辺にキャラクター
 
 set_politics = {
-	ruling_party = democracy
+	ruling_party = spartanism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democracy = 100
+	spartanism = 100
 }

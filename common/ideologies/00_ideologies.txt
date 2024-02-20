@@ -13,7 +13,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRACY_5"
 			"FACTION_NAME_DEMOCRACY_6"
 		}
-		color = { 0 0 255 }
+		color = { 0 110 255 }
 		rules = {
 			can_force_government = yes
 			can_puppet = no
@@ -46,7 +46,7 @@ ideologies = {
 			"FACTION_NAME_SOCIALISM_5"
 			"FACTION_NAME_SOCIALISM_6"
 		}
-		color = { 194 30 86 }
+		color = { 217 54 108 }
 		rules = {
 			can_force_government = yes
 			can_puppet = no
@@ -80,7 +80,7 @@ ideologies = {
 			"FACTION_NAME_AUTHORITARIANISM_5"
 			"FACTION_NAME_AUTHORITARIANISM_6"
 		}
-		color = { 110 110 110 }
+		color = { 211 186 23 }
 		rules = {
 			can_force_government = yes
 			can_puppet = no
@@ -114,7 +114,7 @@ ideologies = {
 			"FACTION_NAME_DESPOTISM_5"
 			"FACTION_NAME_DESPOTISM_6"
 		}
-		color = { 45 45 45 }
+		color = { 64 5 92 }
 		rules = {
 			can_force_government = yes
 			can_puppet = no
@@ -147,7 +147,7 @@ ideologies = {
 			"FACTION_NAME_SPARTANISM_5"
 			"FACTION_NAME_SPARTANISM_6"
 		}
-		color = { 142 57 0 }
+		color = { 69 29 2 }
 		rules = {
 			can_force_government = yes
 			can_puppet = no
@@ -180,7 +180,7 @@ ideologies = {
 			"FACTION_NAME_COMMUNISM_5"
 			"FACTION_NAME_COMMUNISM_6"
 		}
-		color = { 244 90 90 }
+		color = { 127 0 0 }
 		rules = {
 			can_force_government = yes
 			can_puppet = no

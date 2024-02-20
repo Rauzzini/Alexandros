@@ -7,6 +7,7 @@ tags={
 }
 name="Alexandros: Sunrise from Pella"
 supported_version="1.13.6"
+replace_path="common/countries"
 replace_path="common/on_actions"
 replace_path="history/countries"
 replace_path="history/states"
