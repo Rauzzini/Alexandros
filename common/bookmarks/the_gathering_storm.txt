@@ -63,14 +63,7 @@ bookmarks = {
 			focuses = {
 			}
 		}
-		"CHI"={
-			history = "ALX_CHI_GATHERING_STORM_DESC"
-			ideology = authoritarianism	
-			ideas = {				
-			}
-			focuses = {
-			}
-		}
+		
 
 		"---"={
 			history = "ALX_OTHER_GATHERING_STORM_DESC"
@@ -78,6 +71,15 @@ bookmarks = {
 
 
 		# minors####
+		"CHI"={
+			minor = yes
+			history = "ALX_CHI_GATHERING_STORM_DESC"
+			ideology = authoritarianism	
+			ideas = {				
+			}
+			focuses = {
+			}
+		}
 		"POL"={
 			minor = yes
 			history = "ALX_POL_GATHERING_STORM_DESC"
